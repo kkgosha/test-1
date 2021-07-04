@@ -11,7 +11,7 @@ int main() {
     cout<<"enter your last_name name";
     cin>>last_name;  
 
-    cout<<"Your full name is " << first_name << " " << last_name << endl;
+    cout<<"Your full name is Dr. " << first_name << " " << last_name << endl;
 
     return 0;
 }
